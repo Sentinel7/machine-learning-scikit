@@ -1,0 +1,8 @@
+Index	Lady in the Water	Snakes on a Plane	Just my luck	Superman Returns	The Night Listener	"You, Me and Dupree (target)"
+Lisa	2.5	3.5	3	3.5	3	2.5
+Gene	3	3.5	1.5	5	3.5	3
+Mike	2.5	3	2.4	3.5	4	2.4
+Claudia	2.8	3.5	3	4	4.5	2.5
+Mick	3	4	2	3	3	2
+Jack	3	4	2.4	5	3	3.5
+Toby	2.8	4.5	2.4	4	3.5	1
